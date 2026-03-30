@@ -1,0 +1,113 @@
+# =========================
+
+# Build
+
+# =========================
+
+bin/
+obj/
+out/
+
+# =========================
+
+# Visual Studio
+
+# =========================
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+
+# Rider / VS Code
+
+# =========================
+
+.idea/
+.vscode/
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# .NET Core
+
+# =========================
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+
+# Environment variables
+
+# =========================
+
+.env
+.env.*
+.appsettings.*.json
+
+# =========================
+
+# Secrets
+
+# =========================
+
+appsettings.Development.json
+secrets.json
+
+# =========================
+
+# Publish
+
+# =========================
+
+publish/
+wwwroot/
+
+# =========================
+
+# NuGet
+
+# =========================
+
+*.nupkg
+packages/
+.nuget/
+
+# =========================
+
+# Test results
+
+# =========================
+
+TestResults/
+coverage/
+
+# =========================
+
+# Resharper
+
+# =========================
+
+_ReSharper*/
+*.DotSettings.user
